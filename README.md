@@ -64,3 +64,5 @@ un tab este închis, ID-ul acestuia nu poate fi refolosit mai târziu.
 - Paginile sunt salvate într-un vector alocat dinamic pe heap. Fiecare pagină
 are un ID unic, un URL / link asociat care are maxim 49 de caractere și un
 pointer către o descriere stocată dinamic la citire.
+
+<b> Copyright 2025 © Andrei-Marcel Bădulescu. All rights reserved. </b>
